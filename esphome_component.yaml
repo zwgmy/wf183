@@ -1,0 +1,6 @@
+name: "WF183DE Sensor"
+domain: wf183de               # 确保与组件文件夹名称一致
+version: "1.0"
+requirements: []
+codeowners:
+  - "@zwgmy"
